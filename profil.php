@@ -21,5 +21,16 @@
             </div>
     </header>
 
+    <div class="section">
+		<div class="container">
+			<h3>Profile</h3>
+			<div class="box">
+				<h2 >I Made Naca Cahyana</h2>
+                <img src="img/poto.jpeg" width="250px">
+                <h2>NPM: 20312143</h2>
+			</div>
+		</div>
+	</div>
+    
 </body>
 </html>
